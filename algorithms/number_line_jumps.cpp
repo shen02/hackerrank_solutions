@@ -26,9 +26,9 @@ string kangaroo(int x1, int v1, int x2, int v2) {
 bool overlapPossible(int x1, int v1, int x2, int v2){
     if(v1 != v2){
         double time = (double)(x2 - x1) / (v1 - v2);
-        return ((time > 0) && (time - floor(time) == 0))?;
+        return ((time > 0) && (time - floor(time) == 0));
     }else{
-        return x1 == x2?;
+        return x1 == x2;
     }      
 }
 
