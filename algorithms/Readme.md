@@ -11,4 +11,4 @@
 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/)  | E   | [recursive_digit_sum.cpp](recursive_digit_sum.cpp) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | E    | [the_hurdle_race.cpp](the_hurdle_race.cpp) |
 | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/)    | E    | [tower_breakers.cpp](tower_breakers.cpp)|
-| [Clibing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | M    | [climbing_the_leaderboard.cpp](climbing_the_leaderboard.cpp)|
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | M    | [climbing_the_leaderboard.cpp](climbing_the_leaderboard.cpp)|
