@@ -13,15 +13,13 @@ using namespace std;
 
 vector<int> climbingLeaderboard(vector<int> ranked, vector<int> player) {
     
-    // 1. Keep only unique elements (e.g. set)
-    // 2. comparative insertion (simultaneous sorting required)
-    
     vector<int> playerRanks;
     vector<int> uniqueRankings;
     
+    // Remove repeated elements in ranked 
     set<int, greater<int>> rankings(ranked.begin(), ranked.end());
     uniqueRankings.assign(rankings.begin(), rankings.end());
-    
+    // Init stack with the unique elements in ranked. The elements are in ascending order.
     stack<int, vector<int>> greaterThanPlayer(uniqueRankings);
     
     for(int score : player){
