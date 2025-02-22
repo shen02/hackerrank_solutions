@@ -11,5 +11,6 @@
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | E    | [c++11](the_hurdle_race.cpp) |
 | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/)    | E    | [c++11](tower_breakers.cpp)|
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | M    | [c++11](climbing_the_leaderboard.cpp)|
+| [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  | M    | [c++11](extra_long_factorials.cpp) [python3](extra_long_factorials.py) [Java8](extra_long_factorials.java)|
 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-recursive-digit-sum/)  | M   | [c++11](recursive_digit_sum.cpp) |
 | [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/)  | M    | [c++11](simple_text_editor.cpp)|
