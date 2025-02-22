@@ -12,3 +12,4 @@
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | E    | [c++11](the_hurdle_race.cpp) |
 | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/)    | E    | [c++11](tower_breakers.cpp)|
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | M    | [c++11](climbing_the_leaderboard.cpp)|
+| [Simple Text Editor](https://www.hackerrank.com/challenges/one-week-preparation-kit-simple-text-editor/)  | M    | [c++11](simple_text_editor.cpp)|
