@@ -39,3 +39,46 @@ struct textEditor {
         }
     }
 };
+
+int main() {
+    
+    
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */  
+    
+     
+    int q; //Number denoting the number of operations
+    cin >> q;
+    
+    textEditor t = textEditor();
+    
+    for(int i = 0; i < q; i++){
+        int op;
+        cin >> op;
+        
+        switch (op) {
+            case 1:{
+                string input;
+                cin >> input;
+                t.append(input);
+                break;
+            }
+            case 2:{
+                int k;
+                cin >> k;
+                t.delete_chars(k);
+                break;
+            }
+            case 3:{
+                int k;
+                cin >> k;
+                t.print(k);
+                break;
+            }
+            case 4:{
+                t.undo();
+                break;
+            }
+        }
+    }
+    return 0;
+}
