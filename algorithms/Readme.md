@@ -11,6 +11,7 @@
 | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/)    | E| [c++11](number_line_jumps.cpp) | |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | E    | [c++11](the_hurdle_race.cpp) | |
 | [Tower Breakers](https://www.hackerrank.com/challenges/one-week-preparation-kit-tower-breakers-1/)    | E    | [c++11](tower_breakers.cpp)| |
+| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater/)  | M    | [c++11](bigger_is_greater.cpp)| |
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/)  | M    | [c++11](climbing_the_leaderboard.cpp)| |
 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)  | M    | [c++11](## 'When I have time.') [python3](extra_long_factorials.py) [Java8](extra_long_factorials.java)| |
 | [New Year Chaos](https://www.hackerrank.com/challenges/one-week-preparation-kit-new-year-chaos/)  | M   | [c++11](new_year_chaos.cpp) | needs comments |
